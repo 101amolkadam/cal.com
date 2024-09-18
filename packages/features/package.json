@@ -12,7 +12,7 @@
     "@calcom/trpc": "*",
     "@calcom/ui": "*",
     "@lexical/react": "^0.9.0",
-    "dompurify": "^2.4.1",
+    "dompurify": "^2.5.4",
     "framer-motion": "^10.12.8",
     "lexical": "^0.9.0",
     "react-select": "^5.7.0",
