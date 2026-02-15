@@ -14,7 +14,7 @@
   "dependencies": {
     "@calcom/config": "*",
     "@calcom/dayjs": "*",
-    "@sendgrid/client": "^7.7.0",
+    "@sendgrid/client": "^8.0.0",
     "@vercel/og": "^0.0.21",
     "bcryptjs": "^2.4.3",
     "ical.js": "^1.4.0",
